@@ -1,0 +1,274 @@
+D_0;Okres obrachunkowy;Accounting period;;;;;;;;;;;01.07-12.07;01.08-12.08;01.09-12.09;01.10-12.10;01.11-12.11;01.12-12.12;01.13-12.13;01.14-12.14;01.15-12.15;01.16-12.16;01.17-12.17;01.18-12.18
+L_1;Podstawowe informacje;Basic information;;;;;;;;;;;;;;;;;;;;;;
+D_BZ;Data bilansowa;End of period;;;;;;;;;;;2007-12-31;2008-12-31;2009-12-31;2010-12-31;2011-12-31;2012-12-31;2013-12-31;2014-12-31;2015-12-31;2016-12-31;2017-12-31;2018-12-31
+D_BO;Początek;Start of period;;;;;;;;;;;2007-01-01;2008-01-01;2009-01-01;2010-01-01;2011-01-01;2012-01-01;2013-01-01;2014-01-01;2015-01-01;2016-01-01;2017-01-01;2018-01-01
+R[PD_0];Przychody ze sprzedaży;Revenues from sales;;;;;;;;;;;295926;266725;232680;224206;287117;209472;219958;269723;286553;284236;288206;177891
+R[WO_0];Zysk/strata z działalności operacyjnej;Operating profit/loss;;;;;;;;;;;32584;31047;20310;184705;47208;8402;15596;9256;9013;-2844;-16652;-21447
+R[xWN_1];Zysk/strata netto udziałowców jednostki dominującej;Net profit/loss attributable to equity holders of the parent;;;;;;;;;;;23418;26746;15891;172259;31612;3454;6133;261;-4214;-7686;-21299;-30749
+R[xDD_1];Całkowite dochody udziałowców jednostki dominującej;Total comprehensive income attributable to equity holders
+R[AM_0];Amortyzacja;Depreciation;;;;;;;;;;;32474;35021;31745;12806;17353;20343;22988;24639;27383;28270;28377;12368
+R[CFA_0];Przepływy operacyjne;Cash flow from operating activities;;;;;;;;;;;33697;59581;21304;55923;37357;31330;13603;19794;42239;31129;22009;18769
+R[CFB_0];Przepływy inwestycyjne;Cash flow from investing activities;;;;;;;;;;;-16177;-12608;-26293;-168723;-23244;-18113;-8475;-34505;-25845;-16864;-16875;-2972
+R[CFC_0];Przepływy finansowe;Cash flow from financing activities;;;;;;;;;;;-62202;8134;-8339;155245;-52323;-14499;-7860;15375;-16584;-10454;-8568;-16708
+R[A_0];Aktywa;Aktywa;;;;;;;;;;;286979;335207;313929;375152;390450;365288;380425;402976;401199;378312;355162;297823
+R[AA_1];Aktywa trwałe;Non-current assets;;;;;;;;;;;204683;195338;186007;258264;270387;270379;255527;276692;273264;269640;258115;229025
+R[AA_2];Aktywa obrotowe;Current assets;;;;;;;;;;;82296;139869;127922;116888;120063;94909;124898;126284;127935;108672;97047;48360
+R[PP_1];Kapitał własny udziałowców podmiotu dominującego;Equity shareholders of the parent;;;;;;;;;;;241509;268256;284146;227555;222728;206182;212315;212576;205496;175507;155066;124223
+R[PP_2];Zobowiązania długoterminowe;Non-current liabilities;;;;;;;;;;;10731;11978;13931;101010;96425;86358;81233;96767;90464;18815;16056;16711
+R[PP_3];Zobowiązania krótkoterminowe;Current liabilities;;;;;;;;;;;34739;54973;15852;46587;71297;72748;86877;93633;105239;183990;184040;156889
+O_1;Liczba akcji (tys.);Number of shares ('000);;;;;;;;;;;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+O_3;Zysk na akcję;Earnings per share;;;;;;;;;;;0.46836;0.53492;0.31782;3.44518;0.63224;0.06908;0.12266;0.00522;-0.08428;-0.15372;-0.42598;-0.61498
+O_4;Całkowite dochody na akcję;Total comprehensive income per share
+O_5;Wartość księgowa na akcję;Book value per share;;;;;;;;;;;4.83018;5.36512;5.68292;4.5511;4.45456;4.12364;4.2463;4.25152;4.10992;3.51014;3.10132;2.48446
+O_6;Standard rachunkowości;Accounting standard;;;;;;;;;;;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF;MSSF
+O_7;Waluta;Currency;;;;;;;;;;;PLN;PLN;PLN;PLN;PLN;PLN;PLN;PLN;PLN;PLN;PLN;PLN
+O_8;Uwagi;Note;;;;;;;;;;;;;;;;;;;;;;
+O_2;Okres obrachunkowy;Accounting period;;;;;;;;;;;12;12;12;12;12;12;12;12;12;12;12;12
+
+L_2;Bilans;Balance sheet;;;;;;;;;;;;;;;;;;;;;;
+R1[D_BZ];Data bilansowa;End of period;;;;;;;;;;;2007-12-31;2008-12-31;2009-12-31;2010-12-31;2011-12-31;2012-12-31;2013-12-31;2014-12-31;2015-12-31;2016-12-31;2017-12-31;2018-12-31
+A_0;AKTYWA;ASSETS;;;;;;;;;;;286979;335207;313929;375152;390450;365288;380425;402976;401199;378312;355162;297823
+AA_1;Aktywa trwałe;Non-current assets;;;;;;;;;;;204683;195338;186007;258264;270387;270379;255527;276692;273264;269640;258115;229025
+A_14;Rzeczowe aktywa trwałe;Property, plant and equipment;;;;;;;;;;;169456;168398;162442;180323;196797;195705;176290;206586;203737;203605;196184;175672
+A_34;Aktywa z tytułu poszukiwania i oceny zasobów mineralnych;Exploration for and evaluation of mineral resources
+A_16;Wartości niematerialne i prawne;Intangible assets;;;;;;;;;;;18017;15797;13593;68381;65989;63301;67465;55971;52541;49716;48880;43860
+A_17;Wartość firmy;Goodwill
+A_15;Nieruchomości inwestycyjne;Investment property
+A_13;Inwestycje w jednostki powiązane;Investment in affiliates
+A_22;Długoterminowe aktywa finansowe;Non-current financial assets;;;;;;;;;;;6525
+A_25;Długoterminowe pożyczki i należności;Non-current loans and receivables
+A_18;Aktywa z tytułu odroczonego podatku dochodowego;Deferred income tax;;;;;;;;;;;10167;10198;9907;8517;6924;9494;9622;9600;4067;6263;5949;5917
+A_27;Długoterminowe rozliczenia międzyokresowe;Non-current deferred charges and accruals
+A_9;Długoterminowe instrumenty pochodne;Non-current derivative instruments
+A_30;Pozostałe aktywa długoterminowe;Other non-current assets;;;;;;;;;;;518;945;65;1043;677;1879;2150;4535;12919;10056;7102;3576
+AA_2;Aktywa obrotowe;Current assets;;;;;;;;;;;82296;139869;127922;116888;120063;94909;124898;126284;127935;108672;97047;48360
+A_23;Zapasy;Inventories;;;;;;;;;;;35549;35944;41263;32820;45127;44215;69112;71033;76072;55130;44960;25479
+A_20;Aktywa niematerialne;Current intangible assets
+A_32;Aktywa biologiczne;Biological assets
+A_24;Należności handlowe;Trade receivables;;;;;;;;;;;32977;36408;32949;38830;67945;46624;48726;36528;34952;35576;39340;14196
+A_33;Pożyczki i pozostałe należności;Loans and other receivables
+A_21;Aktywa finansowe;Financial assets;;;;;;;;;;;534
+A_28;Środki pieniężne i ich ekwiwalenty;Cash and cash equivalents;;;;;;;;;;;11083;67080;52860;42445;4235;2953;221;886;696;4507;1073;162
+A_26;Rozliczenia międzyokresowe;Accruals
+A_19;Aktywa z tytułu bieżącego podatku;Assets from current tax;;;;;;;;;;;1320;0;536;773;32;;;;439;;136
+A_8;Instrumenty pochodne;Derivative instruments
+A_29;Pozostałe aktywa;Other assets;;;;;;;;;;;833;437;314;2020;2724;1117;6839;17837;15776;13459;11538;8523
+A_31;Aktywa przeznaczone do zbycia i działalność zaniechana;Assets held for sale and discontinuing operations;;;;;;;;;;;;;;;;;;;;;;20438
+A_40;Należne wpłaty na kapitał;Called up capital
+A_39;Akcje własne;Own shares;;;;;;;;;;;;;;;;;;;;;;
+
+P_0;PASYWA;EQUITY & LIABILITIES;;;;;;;;;;;286979;335207;313929;375152;390450;365288;380425;402976;401199;378312;355162;297823
+PP_1;Kapitał własny udziałowców podmiotu dominującego;Equity shareholders of the parent;;;;;;;;;;;241509;268256;284146;227555;222728;206182;212315;212576;205496;175507;155066;124223
+P_1;Kapitał podstawowy;Share capital;;;;;;;;;;;202194;202194;202194;500;500;500;500;500;500;500;500;500
+P_2;Należne wpłaty na kapitał podstawowy;Called up share capital
+P_3;Akcje/udziały własne;Treasury shares
+P_4;Kapitał zapasowy;Supplementary capital;;;;;;;;;;;;;;54796;53873;74816;84883;100511;109388;116515;120499;116262
+P_5;Wyceny i różnice kursowe;Valuation and exchange differences;;;;;;;;;;;;;;;;;;;-2866;-1792;-934;-351
+P_6;Pozostałe kapitały;Other capitals;;;;;;;;;;;;;;;;;;;;;10000;10000
+P_7;Zyski zatrzymane / niepokryte straty;Retained earnings / accumulated losses;;;;;;;;;;;39315;66062;81952;172259;168355;130866;126932;111565;98474;60284;25001;-2188
+P_8;Udziały niekontrolujące;Non-controlling interests;;;;;;;;;;;;;;;;;;;;;;
+PP_2;Zobowiązania długoterminowe;Non-current liabilities;;;;;;;;;;;10731;11978;13931;101010;96425;86358;81233;96767;90464;18815;16056;16711
+P_11;Długoterminowe zobowiązania z tytułu instrumentów pochodnych;Non-current liabilities from derivatives
+P_29;Długoterminowe kredyty i pożyczki;Non-current loans and borrowings;;;;;;;;;;;;;;90000;85000;75000;69900;82669;76582;2213;1321;591
+P_41;Długoterminowe zobowiązania z tytułu obligacji;Non-current liabilities from bonds
+P_43;Długoterminowe zobowiązania z tytułu leasingu;Non-current liabilities from finance leases;;;;;;;;;;;;;;;;;;;;3431;3627;3266
+P_33;Długoterminowe zobowiązania handlowe;Non-current trade payables
+P_27;Długoterminowe rezerwy na świadczenia pracownicze;Long-term provision for employee benefits;;;;;;;;;;;;;;;;;310;302;233;341;328;382
+P_22;Rezerwa z tytułu odroczonego podatku dochodowego;Deferred tax liabilities;;;;;;;;;;;5469;6645;8738;9670;10820;10703;10655;11017;11011;10671;8411;9643
+P_19;Długoterminowe rezerwy;Non-current provision;;;;;;;;;;;1640;1806;1866;1340;605;465;368;447;385
+P_25;Pozostałe zobowiązania długoterminowe;Other non-current liabilities;;;;;;;;;;;;;;;;;;2121;2003;1886;1768;1427
+P_31;Długoterminowe rozliczenia międzyokresowe (zobowiązania);Non-current accruals (liability);;;;;;;;;;;3622;3527;3327;;0;190;;211;250;273;601;1402
+PP_3;Zobowiązania krótkoterminowe;Current liabilities;;;;;;;;;;;34739;54973;15852;46587;71297;72748;86877;93633;105239;183990;184040;156889
+P_10;Zobowiązania z tytułu instrumentów pochodnych;Liabilities from derivatives
+P_28;Zobowiązania finansowe (kredyty i pożyczki);Financial liabilities (loans and borrowings);;;;;;;;;;;;8248;0;10044;5017;22474;25739;31792;29665;99088;96471;90899
+P_40;Zobowiązania z tytułu obligacji;Bond liabilities
+P_42;Zobowiązania z tytułu leasingu;Liabilities from finance leases;;;;;;;;;;;;;;;;;;;;2291;1784;2344
+P_32;Zobowiązania handlowe;Trade payables;;;;;;;;;;;29999;38356;13821;32070;66034;49951;50780;56633;70747;70059;70296;44428
+P_26;Świadczenia pracownicze;Employee benefits;;;;;;;;;;;;;;;;;;;;;138;143
+P_23;Zobowiązania z tytułu bieżącego podatku;Current tax liabilities;;;;;;;;;;;;5387;0;;;0;1073;228;;38;;64
+P_18;Rezerwy;Provisions;;;;;;;;;;;4576;2846;1897;483;246;163;;;3
+P_24;Pozostałe zobowiązania;Other liabilities;;;;;;;;;;;;;;;;;8916;4980;4824;12514;15329;17121
+P_30;Rozliczenia międzyokresowe (zobowiązania);Accruals (liability);;;;;;;;;;;164;136;134;3990;0;160;369;;;;22;1890
+P_34;Zobowiązania związane z aktywami do zbycia i działalnością zaniechaną;Liabilities related to assets held for sale and discontinued operations;;;;;;;;;;;;;;;;;;;;;;
+D_BS;Data publikacji;Date of publication;;;;;;;;;;;2011-04-07;2011-04-07;2011-04-07;2012-03-14;2013-03-21;2014-03-21;2015-03-19;2016-03-18;2017-04-28;2018-04-27;2019-04-30;2019-04-30
+
+L_3;Dochody;Incomes;;;;;;;;;;;;;;;;;;;;;;
+R1[D_0];Okres obrachunkowy;Accounting period;;;;;;;;;;;01.07-12.07;01.08-12.08;01.09-12.09;01.10-12.10;01.11-12.11;01.12-12.12;01.13-12.13;01.14-12.14;01.15-12.15;01.16-12.16;01.17-12.17;01.18-12.18
+PD_0;Przychody ze sprzedaży;Revenues from sales;;;;;;;;;;;295926;266725;232680;224206;287117;209472;219958;269723;286553;284236;288206;177891
+PD_1;Przychody ze sprzedaży produktów i usług;Revenues from sales of products and services
+PD_2;Przychody ze sprzedaży towarów i materiałów;Revenues from sales of goods and materials
+PD_3;Pozostałe przychody z działalności podstawowej;Other revenues from core activities
+KKD_1;Koszt własny sprzedaży;Cost of sales;;;;;;;;;;;-216560;-195727;-183403;-163455;-215570;-166619;-169454;-223093;-220486;-238918;-248263;-160488
+KD_1;Koszt sprzedanych produktów i usług;Cost of sales of products and services
+KD_2;Koszt sprzedanych towarów i materiałów;Cost of goods and materials sold
+PPD_2;Zysk/strata brutto ze sprzedaży;Gross profit/loss on sales;;;;;;;;;;;79366;70998;49277;60751;71547;42853;50504;46630;66067;45318;39943;17403
+KD_3;Koszty sprzedaży;Cost of sales;;;;;;;;;;;-14495;-13473;-7898;-5740;-19640;-24567;-24149;-25929;-37370;-36391;-36871;-23784
+KD_4;Koszty ogólnego zarządu;General and administrative costs;;;;;;;;;;;-22581;-19190;-19997;-13352;-11049;-11480;-11121;-11490;-13197;-17217;-20265;-17247
+KD_5;Koszty działalności operacyjnej (porównawczy);Operating expenses (comparative)
+PPD_0;Zysk/strata ze sprzedaży;Profit/loss on sales;;;;;;;;;;;42290;38335;21382;41659;40858;6806;15234;9211;15500;-8290;-17193;-23628
+WO_1;Pozostałe przychody operacyjne;Other operating revenues;;;;;;;;;;;4845;7068;6346;151114;9321;3760;362;8556;2777;5860;1838;2673
+WO_2;Pozostałe koszty operacyjne;Other operating expenses;;;;;;;;;;;-14551;-14356;-7418;-8068;-2971;-2164;;-8511;-9264;-414;-1297;-492
+WO_3;Wynik na aktywach niefinansowych;Profit on non-financial assets
+WO_0;Zysk/strata z działalności operacyjnej;Operating profit/loss;;;;;;;;;;;32584;31047;20310;184705;47208;8402;15596;9256;9013;-2844;-16652;-21447
+WB_1;Przychody finansowe;Financial income;;;;;;;;;;;1800;2940;2204;1913;996;407;;262;226;130;24;90
+WB_2;Koszty finansowe;Financial expenses;;;;;;;;;;;-2209;-117;-905;-7048;-8598;-7780;-7258;-7298;-6051;-6339;-6269;-8117
+WB_3;Różnice kursowe;Foreign exchange
+WB_4;Wynik na inwestycjach;Net income on investments
+WB_5;Wynik zdarzeń nadzwyczajnych;Extraordinary items
+WB_6;Udział w wyniku jednostek stowarzyszonych i wspólnych przedsięwzięć;Share in profit of associates and joint ventures
+WB_0;Zysk/strata brutto;Profit/loss before tax;;;;;;;;;;;32175;33870;21609;179570;39606;1029;8338;2220;3188;-9053;-22897;-29474
+WN_1;Podatek dochodowy;Income tax;;;;;;;;;;;-8757;-7124;-5718;-7311;-7994;2425;-2205;-1959;-7402;1367;1598;-1275
+WN_2;Pozostałe zdarzenia i odpisy z zysku;Other events and deductions from profit 
+WN_3;Udział w wyniku jednostek powiązanych;Share in profit of associated companies
+WN_4;Zysk/strata netto na działalności zaniechanej;Net profit/loss from discontinued operations
+WN_0;Zysk/strata netto;Net profit/loss;;;;;;;;;;;23418;26746;15891;172259;31612;3454;6133;261;-4214;-7686;-21299;-30749
+xWN_1;zysk/strata netto udziałowców jednostki dominującej;net profit/loss attributable to equity holders of the parent;;;;;;;;;;;23418;26746;15891;172259;31612;3454;6133;261;-4214;-7686;-21299;-30749
+xWN_2;zysk/strata netto właścicieli udziałów niekontrolujących;net profit/loss attributable to non-controling interests
+CC_0;Pozostałe całkowite dochody, netto;Other comprehensive income, net
+CC_1;Różnice kursowe z jednostek powiązanych;Exchange differences from of related affiliates
+CC_2;Wynik z aktualizacji wycen;Net income from valuation
+CC_3;Zabezpieczenie przepływów pieniężnych;Cash flow hedges
+CC_4;Inne składniki pozostałego całkowitego dochodu;Other comprehensive income/expenses
+CC_5;Podatek odroczony od pozostałych całkowitych dochodów;Deferred tax on other comprehensive income
+DD_0;Całkowite dochody ogółem;Total comprehensive income
+xDD_1;całkowite dochody udziałowców jednostki dominującej;total comprehensive income attributable to equity holders
+xDD_2;całkowite dochody udziałowców niekontrolujących;total comprehensive income attributable to non-controlling interests
+AM_0;Amortyzacja (noty);Depreciation;;;;;;;;;;;32474;35021;31745;12806;17353;20343;22988;24639;27383;28270;28377;12368
+xWB_2;Naliczone odsetki;Interest accrued;;;;;;;;;;;;;;;;;;;-934;-5340;-5609;-6607
+xKD_5;Koszty według rodzaju;Operating expenses;;;;;;;;;;;;;;;;;;-258380;-262895;-263664;-258105;-161621
+xKD_5_1;amortyzacja (koszt);deprecation (cost);;;;;;;;;;;;;;;;;;-24639;-27383;-28270;-28377;-12368
+xKD_5_2;zużycie materiałów i energii;raw material costs;;;;;;;;;;;;;;;;;;-146484;-141903;-139648;-132258;-75261
+xKD_5_3;usługi obce;foreign service;;;;;;;;;;;;;;;;;;-41831;-44632;-42340;-46782;-31375
+xKD_5_4;podatki i opłaty;taxes and surcharges;;;;;;;;;;;;;;;;;;-3421;-3772;-4336;-4040;-4536
+xKD_5_5;wynagrodzenia;salaries;;;;;;;;;;;;;;;;;;-33801;-36849;-38866;-38504;-33617
+xKD_5_6;ubezpieczenia społeczne i inne;social security and other
+xKD_5_7;pozostałe koszty rodzajowe;other costs;;;;;;;;;;;;;;;;;;-8204;-8356;-10204;-8144;-4464
+xKD_5_8;wartość sprzedanych towarów i materiałów;cost of goods and materials sold
+D_IS;Data publikacji;Date of publication;;;;;;;;;;;2011-04-07;2011-04-07;2011-04-07;2012-03-14;2013-03-21;2014-03-21;2015-03-19;2016-03-18;2017-04-28;2018-04-27;2019-04-30;2019-04-30
+
+L_4;Przepływy;Cash flow;;;;;;;;;;;;;;;;;;;;;;
+R2[D_0];Okres obrachunkowy;Accounting period;;;;;;;;;;;01.07-12.07;01.08-12.08;01.09-12.09;01.10-12.10;01.11-12.11;01.12-12.12;01.13-12.13;01.14-12.14;01.15-12.15;01.16-12.16;01.17-12.17;01.18-12.18
+CFA_0;Przepływy operacyjne;Cash flow from operating activities;;;;;;;;;;;33697;59581;21304;55923;37357;31330;13603;19794;42239;31129;22009;18769
+CFA_1;Wynik finansowy;Financial result;;;;;;;;;;;23418;26746;15891;172259;31612;3454;8338;2220;3188;-9054;-22897;-29474
+CFA_2;Udział w wyniku jednostek powiązanych;Share of profit of associates companies
+CFA_3;Amortyzacja (przepływy operacyjne);Depreciation;;;;;;;;;;;32474;35021;31745;12806;17353;20343;22988;24639;27383;28270;28377;12368
+CFA_4;Różnice kursowe z działalności operacyjnej;Exchange differences from operating activities;;;;;;;;;;;41;-937;873;0;-28;17
+CFA_5;Odsetki i dywidendy z działalności operacyjnej;Interest and dividends from operating activities;;;;;;;;;;;45;77;130;19;17;7270;;4992
+CFA_6;Wynik na działalności inwestycyjnej;Net income from investments;;;;;;;;;;;272;2;14;22;-168;-372;6862;394;2987;5236;4089;5097
+CFA_30;Wynik na zmianie wartości aktywów;Net change in assets;;;;;;;;;;;1065;1972;2412;-143032;-4234;-1521
+CFA_31;Podatek dochodowy odroczony;Income tax deferred
+CFA_7;Podatek dochodowy zapłacony;Income tax paid;;;;;;;;;;;2614;7069;-2468;3517;3484;-2425;-711;-2072;-1869;-696;-686
+CFA_8;Płatności rozliczane w akcjach;Share-based payments
+CFA_9;Zmiana stanu rezerw;Change in reserves;;;;;;;;;;;3421;-1564;-889;-9021;-972;-223;50;-656;-129;-279;125;59
+CFA_10;Zmiana stanu zapasów;Change in inventories;;;;;;;;;;;-6698;-395;-5319;16870;-12307;912;-24897;-1921;3578;-1156;10170;19481
+CFA_11;Zmiana stanu należności;Change in receivables;;;;;;;;;;;4552;-3431;3459;-17978;-29115;21321;-8095;-1766;-1471;4577;1110;31686
+CFA_12;Zmiana stanu zobowiązań;Change in liabilities;;;;;;;;;;;-23783;-4825;-25345;19520;36043;-18201;9049;-6;20815;4437;1370;-23118
+CFA_13;Zmiana stanu rozliczeń międzyokresowych;Change in accruals;;;;;;;;;;;-3364;-123;-202;-2414;-3990;350;19;-158;39;23;351;2670
+CFA_14;Zmiana stanu pozostałych aktywów i pasywów;Change in other assets & liabilities;;;;;;;;;;;-360;-31;1003;3330;-338;405
+CFA_16;Pozostałe przepływy operacyjne;Other adjustments;;;;;;;;;;;;;;25;;;;-5872;-12282;-229
+CFA_40;Przepływy operacyjne z działalności zaniechanej;Operating cash flow from discontinued operations
+CFB_0;Przepływy inwestycyjne;Cash flow from investing activities;;;;;;;;;;;-16177;-12608;-26293;-168723;-23244;-18113;-8475;-34505;-25845;-16864;-16875;-2972
+CFB_1;Zbycie rzeczowych aktywów trwałych oraz wartości niematerialnych;Disposal of property, plant, equipment and intangible assets;;;;;;;;;;;582;189;220;220;245;586;113;548;202;103;2559;955
+CFB_2;Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych;Purchase of property, plant, equipment and intangible assets;;;;;;;;;;;-10259;-20105;-26513;-26706;-23489;-18996;-8588;-35053;-23203;-16967;-19434;-3927
+CFB_3;Zbycie udziałów w podmiotach powiązanych;Proceeds from disposal of shares in associates
+CFB_4;Nabycie udziałów w podmiotach powiązanych;Purchase of shares in associates;;;;;;;;;;;;;;-142237
+CFB_5;Zbycie nieruchomości;Proceeds from disposal of real estate
+CFB_6;Nabycie nieruchomości;Purchase of real estate
+CFB_7;Zbycie/zapadalność aktywów finansowych;Sale/maturity financial assets;;;;;;;;;;;;6000;0
+CFB_8;Nabycie aktywów finansowych;Purchase of financial assets;;;;;;;;;;;-6000
+CFB_9;Zwrot udzielonych pożyczek;Repayment of loans;;;;;;;;;;;;1045;0
+CFB_10;Udzielone pożyczki;Loans granted;;;;;;;;;;;-500
+CFB_11;Odsetki i dywidendy z działalności inwestycyjnej;Interest and dividends from investments;;;;;;;;;;;;263;0;;0;297
+CFB_12;Pozostałe przepływy inwestycyjne;Other investment cash flows;;;;;;;;;;;;;;;;;;;-2844
+CFB_13;Przepływy inwestycyjne z działalności zaniechanej;Investment cash flows from discontinued operations
+CFB_14;Wydatki na badania i rozwój;Expenditure on research and development
+CFC_0;Przepływy finansowe;Cash flow from financing activities;;;;;;;;;;;-62202;8134;-8339;155245;-52323;-14499;-7860;15375;-16584;-10454;-8568;-16708
+CFC_1;Emisja akcji własnych;Issue of shares;;;;;;;;;;;;;;55245
+CFC_2;Nabycie akcji własnych;Purchase of own shares
+CFC_3;Wyemitowane papiery dłużne;Debt securities issued
+CFC_4;Wykup papierów dłużnych;Redemption of debt securities
+CFC_5;Zaciągnięte kredyty i pożyczki;Credits and loans taken;;;;;;;;;;;;8249;0;134884;0;12474;4261;101509;5564;3372;7322;1980
+CFC_6;Spłacone kredyty i pożyczki;Payments of credits and loans taken;;;;;;;;;;;-62202;-115;-8339;-34884;-16807;-11973;-12121;-81398;-17748;-7338;-10138;-7897
+CFC_7;Dywidendy na rzecz udziałowców podmiotu dominującego;Dividends to the shareholders of the parent;;;;;;;;;;;;;;0
+CFC_8;Płatności z tytułu leasingu;Lease payments;;;;;;;;;;;;;;;;;;;;-2157;-2279;-2569
+CFC_9;Inne wypłaty z zysku;Other profit-sharing
+CFC_10;Odsetki z działalności finansowej;Interest from financial activities;;;;;;;;;;;;;;;;;;-4736;-4400;-5303;-5284;-5159
+CFC_11;Pozostałe przepływy finansowe;Other financing cash flow;;;;;;;;;;;;;;;-35516;-15000;;;;972;1811;-3063
+CFC_12;Przepływy finansowe z działalności zaniechanej;Financial cash flows from discontinued operations
+CFD_0;Przepływy pieniężne netto;Net cash flow;;;;;;;;;;;-43096;55107;-13328;42445;-38210;-1282;-2732;665;-190;3811;-3434;-911
+CFD_1;Różnice kursowe;Exchange rate differences;;;;;;;;;;;;890;-892
+CFD_2;Bilansowa zmiana stanu środków pieniężnych;Balance sheet change in cash
+CFD_3;Środki pieniężne na początek okresu;Cash opening balance;;;;;;;;;;;54179;11083;67080;0;42445;4235;2953;221;886;696;4507;1073
+CFD_4;Środki pieniężne na koniec okresu;Closing balance of cash;;;;;;;;;;;11083;67080;52860;42445;4235;2953;221;886;696;4507;1073;162
+D_CF;Data publikacji;Date of publication;;;;;;;;;;;2011-04-07;2011-04-07;2011-04-07;2012-03-14;2013-03-21;2014-03-21;2015-03-19;2016-03-18;2017-04-28;2018-04-27;2019-04-30;2019-04-30
+
+L_5;Wskaźniki finansowe;Financial ratios;;;;;;;;;;;;;;;;;;;;;;
+R3[D_0];Okres obrachunkowy;Accounting period;;;;;;;;;;;01.07-12.07;01.08-12.08;01.09-12.09;01.10-12.10;01.11-12.11;01.12-12.12;01.13-12.13;01.14-12.14;01.15-12.15;01.16-12.16;01.17-12.17;01.18-12.18
+RS_1;Marża zysku brutto ze sprzedaży;Gross profit margin on sales;;;;;;;;;;;0.268195427235;0.26618427219;0.211780127213;0.270960634417;0.249191096313;0.20457626795;0.229607470517;0.172881066872;0.230557697878;0.159437931859;0.138591840558;0.0978295697927
+RS_2;Marża zysku operacyjnego;Operating profit margin;;;;;;;;;;;0.110108608233;0.116400787328;0.087287261475;0.823818274266;0.164420776199;0.0401103727467;0.0709044453941;0.0343166878613;0.0314531692217;-0.0100057698532;-0.0577781170413;-0.120562591699
+RS_3;Marża zysku brutto;Gross profit margin;;;;;;;;;;;0.108726505951;0.126984722092;0.0928700361011;0.800915229744;0.137943765085;0.00491235105408;0.0379072368361;0.00823066627614;0.0111253415599;-0.0318502934181;-0.079446645802;-0.165685728901
+RS_4;Marża zysku netto;Net profit margin;;;;;;;;;;;0.079134648527;0.10027556472;0.0682955131511;0.768306824973;0.110101456897;0.0164890772991;0.0278825957683;0.000967659413546;-0.014705831033;-0.0270409096666;-0.0739020006523;-0.172853039221
+RS_5;Stopa zwrotu z kapitału własnego (ROE);Return on equity (ROE);;;;;;;;;;;;0.10493462674;0.0575341870594;0.673279903694;0.140409475819;0.0161059429717;0.0293096485757;0.00122855038116;-0.0201592070265;-0.0403461390068;-0.128861098759;-0.220194851928
+RS_6;Stopa zwrotu z aktywów (ROA);Return on assets (ROA);;;;;;;;;;;;0.0859742906462;0.0489604643711;0.499967347815;0.0825807665079;0.00914073395806;0.0164486873636;0.000666325419549;-0.0104803059036;-0.0197200552654;-0.0580770415857;-0.0941798050491
+RS_7;Wskaźnik kapitału pracującego;Working capital ratio;;;;;;;;;;;0.165715958311;0.253264400803;0.356991549045;0.187393376551;0.124896913817;0.0606671995795;0.099943484261;0.0810246764075;0.0565704301357;-0.199089640297;-0.244938929277;-0.364407718679
+RS_8;Wskaźnik płynności bieżącej;Current ratio;;;;;;;;;;;2.36898;2.544322;8.06977;2.509026;1.683984;1.304627;1.437642;1.348713;1.215661;0.590641;0.527315;0.308243
+RS_9;Wskaźnik płynności szybkiej;Quick ratio;;;;;;;;;;;1.345663;1.890474;5.466755;1.804538;1.05104;0.696844;0.642126;0.59008;0.492812;0.291005;0.28302;0.145842
+RS_10;Wskaźnik podwyższonej płynności;Cash ratio;;;;;;;;;;;0.319036;1.220235;3.334595;0.911091;0.059399;0.040592;0.002544;0.009462;0.006614;0.024496;0.00583;0.001033
+RS_11;Rotacja należności;Receivables turnover;;;;;;;;;;;20.3;47.6;54.4;58.4;67.9;100.1;79.1;57.7;45.5;45.4;47.4;54.9
+RS_12;Rotacja zapasów;Inventory turnover;;;;;;;;;;;25.6;57.3;66.7;74.1;57.8;80.7;101.0;98.2;99.0;82.1;59.8;63.8
+RS_13;Cykl operacyjny;The operating cycle;;;;;;;;;;;45.9;104.9;121.1;132.5;125.6;180.8;180.1;155.9;144.6;127.5;107.3;118.7
+RS_14;Rotacja zobowiązań;Rotation commitments;;;;;;;;;;;21.6;54.8;45.1;45.9;72.7;104.7;89.8;75.2;85.8;88.1;83.9;103.9
+RS_15;Cykl konwersji gotówki;Cash conversion cycle;;;;;;;;;;;24.3;50.1;76.0;86.6;52.9;76.0;90.3;80.6;58.8;39.4;23.4;14.8
+RS_16;Rotacja aktywów obrotowych;Rotation assets;;;;;;;;;;;50.8;152.4;210.0;199.3;150.6;187.8;182.4;170.0;161.9;152.3;130.3;149.2
+RS_17;Rotacja aktywów;Rotation of assets;;;;;;;;;;;177.0;426.9;509.1;560.9;486.6;660.2;618.7;530.1;512.2;501.9;464.5;669.9
+RS_18;Wskaźnik pokrycia majątku;Assets ratio;;;;;;;;;;;1.179917;1.373291;1.527609;0.881095;0.823738;0.762567;0.830891;0.768277;0.752005;0.650894;0.600763;0.542399
+RS_19;Stopa zadłużenia;Debt ratio;;;;;;;;;;;;0.199730315894;0.0948717703685;0.393432528682;0.429560763222;0.435563172072;0.441900506013;0.47248471373;0.487795333488;0.536078686375;0.563393606298;0.58289655265
+RS_20;Wskaźnik obsługi zadłużenia;Debt service ratio;;;;;;;;;;;29.451335;564.683761;57.519337;28.023695;7.508839;3.69473;5.316065;4.644423;6.014874;4.011043;1.870314;-1.118517
+RS_21;Wskaźnik zabezpieczenia długu;Rate debt security;;;;;;;;;;;0.349457;0.850798;0.929152;0.449038;2.442024;5.684954;4.240307;5.288538;5.304196;7.836624;17.181279;-20.58024
+
+L_6;Wskaźniki DuPonta;DuPont indicators;;;;;;;;;;;;;;;;;;;;;;
+R4[D_0];Okres obrachunkowy;Accounting period;;;;;;;;;;;01.07-12.07;01.08-12.08;01.09-12.09;01.10-12.10;01.11-12.11;01.12-12.12;01.13-12.13;01.14-12.14;01.15-12.15;01.16-12.16;01.17-12.17;01.18-12.18
+R[RS_5];Stopa zwrotu z kapitału własnego (ROE);Return on equity (ROE);;;;;;;;;;;;0.10493462674;0.0575341870594;0.673279903694;0.140409475819;0.0161059429717;0.0293096485757;0.00122855038116;-0.0201592070265;-0.0403461390068;-0.128861098759;-0.220194851928
+R[RS_6];Stopa zwrotu z aktywów (ROA);Return on assets (ROA);;;;;;;;;;;;0.0859742906462;0.0489604643711;0.499967347815;0.0825807665079;0.00914073395806;0.0164486873636;0.000666325419549;-0.0104803059036;-0.0197200552654;-0.0580770415857;-0.0941798050491
+RS_22;Wskaźnik dźwigni finansowej (EM);Leverage (EM);;;;;;;;;;;1.18827455706;1.22053495238;1.17511522406;1.34664774937;1.70026849781;1.76199668928;1.7818837411;1.8437693432;1.92353231022;2.04594452012;2.21879584842;2.33802620225
+R[RS_4];Marża zysku netto;Net profit margin;;;;;;;;;;;0.079134648527;0.10027556472;0.0682955131511;0.768306824973;0.110101456897;0.0164890772991;0.0278825957683;0.000967659413546;-0.014705831033;-0.0270409096666;-0.0739020006523;-0.172853039221
+RS_23;Wykorzystanie aktywów (AU);Asset utilization (AU);;;;;;;;;;;;0.857380268923;0.716891375613;0.650739172898;0.750042450255;0.554350846457;0.589926687613;0.688594985199;0.712663288463;0.729267451005;0.785865620322;0.544854782269
+RS_24;Obciążenie zysku brutto;Load gross profit;;;;;;;;;;;0.727832167832;0.78966637142;0.735388032764;0.959286072284;0.798161894662;3.35665694849;0.735548093068;0.117567567568;-1.32183186951;0.849000331382;0.930209197711;1.04325846509
+RS_25;Obciążenie zysku operacyjnego;Load operating profit;;;;;;;;;;;0.987447827154;1.09092665958;1.06395864106;0.972198911778;0.83896797153;0.122470840276;0.534624262631;0.239844425238;0.353711305891;3.18319268636;1.37503002642;1.37427145988
+R[RS_2];Marża zysku operacyjnego;Operating profit margin;;;;;;;;;;;0.110108608233;0.116400787328;0.087287261475;0.823818274266;0.164420776199;0.0401103727467;0.0709044453941;0.0343166878613;0.0314531692217;-0.0100057698532;-0.0577781170413;-0.120562591699
+RS_71;Marża EBITDA;EBITDA margin;;;;;;;;;;;0.219845501916;0.247700815447;0.223719271102;0.880935389775;0.224859552029;0.137225977696;0.175415306559;0.125665961004;0.12701315289;0.0894538341378;0.0406827061199;-0.0510368708929
+
+L_8;Informacje dodatkowe;Additional information;;;;;;;;;;;;;;;;;;;;;;
+RS_72;EBITDA;EBITDA;;;;;;;;;;;65058;66068;52055;197511;64561;28745;38584;33895;36396;25426;11725;-9079
+RS_74;Krótkoterminowe zobowiązania finansowe;Current financial liabilities;;;;;;;;;;;0;8248;0;10044;5017;22474;25739;31792;29665;101379;98255;93243
+RS_75;Długoterminowe zobowiązania finansowe;Non-current financial liabilities;;;;;;;;;;;0;0;0;90000;85000;75000;69900;82669;76582;5644;4948;3857
+RS_77;Zobowiązania finansowe;Financial liabilities (total);;;;;;;;;;;0;8248;0;100044;90017;97474;95639;114461;106247;107023;103203;97100
+T_BS;Data i czas publikacji;Date and time of publication;;;;;;;;;;;;;;;;;2015-03-19 08:02:53;2016-03-18 19:02:52;2017-04-28 17:38:02;2018-04-27 23:06:58;2019-04-30 21:46:03;2019-04-30 21:46:03
+T_IS;Data i czas publikacji;Date and time of publication;;;;;;;;;;;;;;;;;2015-03-19 08:02:53;2016-03-18 19:02:52;2017-04-28 17:38:02;2018-04-27 23:06:58;2019-04-30 21:46:03;2019-04-30 21:46:03
+T_CF;Data i czas publikacji;Date and time of publication;;;;;;;;;;;;;;;;;2015-03-19 08:02:53;2016-03-18 19:02:52;2017-04-28 17:38:02;2018-04-27 23:06:58;2019-04-30 21:46:03;2019-04-30 21:46:03
+
+L_9;Modele dyskryminacyjne;Discriminative models;;;;;;;;;;;;;;;;;;;;;;
+L_9_1;Model Altmana;Altman model;;;;;;;;;;;;;;;;;;;;;;
+RS_80;Wskaźnik Altmana;Altman indicator;;;;;;;;;;;11.123664;10.383387;16.895225;10.90359;7.681827;6.331125;6.594951;6.010708;5.674775;3.321602;2.371317;1.10296
+RS_81;Ranking Altmana;Altman ranking;;;;;;;;;;;AAA;AAA;AAA;AAA;AA+;BBB+;A-;BBB;BBB-;CCC+;CCC-;D
+RS_82;Znormalizowany wskaźnik Altmana;Normalized ratio Altman;;;;;;;;;;;8.470872;8.268971;9.44622;8.414819;6.814823;5.424685;5.724445;5.051176;4.655765;2.385164;1.878032;1.474438
+L_9_2;Model Appenzeller-Szarzec;Appenzeller-Szarzec model;;;;;;;;;;;;;;;;;;;;;;
+RS_83;Wskaźnik Appenzeller-Szarzec;Appenzeller-Szarzec indicator;;;;;;;;;;;1.877899;1.755999;6.945765;3.407679;1.075086;0.338363;0.440503;0.256395;0.137483;-0.440582;-0.524997;-0.900469
+RS_84;Ranking Appenzeller-Szarzec;Appenzeller-Szarzec ranking;;;;;;;;;;;BBB+;BBB+;AAA ;A;BBB;BBB-;BBB-;BBB-;BBB-;BB+;BB+;BB
+RS_85;Znormalizowana skala Appenzeller-Szarzec;Normalized scale Appenzeller-Szarzec;;;;;;;;;;;7.894754;7.829815;9.600495;8.807594;6.684894;3.826925;4.235605;3.513605;3.088879;1.621691;1.484478;1.042521
+L_9_3;Model Mączyńskiej;Mączyńska model;;;;;;;;;;;;;;;;;;;;;;
+RS_86;Wskaźnik Mączyńskiej;Mączyńska indicator;;;;;;;;;;;5.647815;3.793614;4.781969;11.489502;2.535724;0.556364;1.009987;0.625544;0.681503;0.042007;-0.707821;-1.627854
+RS_87;Ranking Mączyńskiej;Mączyńska ranking;;;;;;;;;;;A+;A-;A;AAA ;BBB+;BBB-;BBB;BBB-;BBB-;BBB-;BB+;BB
+RS_88;Znormalizowana skala Mączyńskiej;Normalized scale of Mączyńska;;;;;;;;;;;8.741657;8.228896;8.550389;9.708541;7.09086;3.533762;4.327877;3.646241;3.739757;2.819423;2.173253;1.823329
+L_9_4;Model Poznański;Poznański model;;;;;;;;;;;;;;;;;;;;;;
+RS_89;Wskaźnik Poznański ;Poznański indicator;;;;;;;;;;;5.403563;5.654685;12.356615;7.312456;4.062128;2.425975;2.484393;2.092541;1.903925;0.030462;-0.459903;-1.334956
+RS_90;Ranking Poznański;Poznański ranking;;;;;;;;;;;BBB+;BBB+;AA-;A-;BBB+;BBB;BBB;BBB;BBB-;BBB-;BB+;BB+
+RS_91;Znormalizowana skala modelu Poznańskiego ;Normalized scale of the Poznański model;;;;;;;;;;;7.624873;7.780674;8.965737;8.385915;6.46944;4.580007;4.649271;4.18993;3.974771;2.221178;1.899177;1.455039
+L_9_5;Model Tymoszuk;Tymoszuk model;;;;;;;;;;;;;;;;;;;;;;
+RS_92;Wskaźnik Tymoszuk ;Tymoszuk indicator;;;;;;;;;;;6.508813;5.012771;6.325913;5.191082;1.696933;-0.425361;0.232104;-23.538703;-1.204155;-1.45659;-1.559779;-1.860738
+RS_93;Ranking Tymoszuk;Tymoszuk ranking;;;;;;;;;;;A-;BBB+;A-;BBB+;BBB-;BB+;BBB-;D;BB+;BB+;BB+;BB+
+RS_94;Znormalizowana skala Tymoszuk;Normalized Tymoszuk scale;;;;;;;;;;;9.131888;8.510077;9.069226;8.597376;6.404088;4.814998;5.317945;0.21315;4.222504;4.035303;3.959918;3.744713
+L_9_6;Model ZPANG INE PAN;ZPANG INE PAN model;;;;;;;;;;;;;;;;;;;;;;
+RS_95;Wskaźnik ZPANG INE PAN ;ZPANG INE PAN indicator ;;;;;;;;;;;8.461434;6.194703;11.110563;10.542707;3.318806;1.75118;2.042158;1.596825;1.434601;0.648652;-0.031113;-0.802445
+RS_96;Ranking ZPANG INE PAN;ZPANG INE PAN ranking;;;;;;;;;;;AA+;AA-;AAA ;AAA ;A-;BBB+;BBB+;BBB+;BBB+;BBB;BBB-;BBB-
+RS_97;Znormalizowana skala ZPANG INE PAN;Normalized scale ZPANG INE PAN;;;;;;;;;;;9.353353;8.702527;9.591886;9.565593;7.158835;5.002703;5.520529;4.720386;4.424146;3.14321;2.395858;1.895858
